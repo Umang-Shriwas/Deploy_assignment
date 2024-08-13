@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Apple iphone 15",
+    "image": "assets/images/iphone15.jpeg",
+    "price": 79600.00,
+    "description": "Apple Iphone 15 Description"
+  },
+  {
+    "name": "Titan Watch",
+    "image": "assets/images/watch.avif",
+    "price": 6999.00,
+    "description": "Titan Watch with Professional and Elegant look"
+  },
+  {
+    "name": "Biotique",
+    "image": "assets/images/biotique.jpeg",
+    "price": 599.00,
+    "description": "A Product that make your face Glow with natural ingredients"
+  },
+  {
+    "name": "Camera",
+    "image": "assets/images/camera.jpeg",
+    "price": 4999.00,
+    "description": "4k quality pictures"
+  },
+  {
+    "name": "T-Shirt",
+    "image": "assets/images/tshirt.jpeg",
+    "price": 499.00,
+    "description": "A light and soft fabric cloth"
+  },
+  {
+    "name": "Boat Headphones",
+    "image": "assets/images/headphone.jpeg",
+    "price": 2399.00,
+    "description": "Become a boathead"
+  },
+  {
+    "name": "One Piece Suit",
+    "image": "assets/images/onepiece.jpeg",
+    "price": 1399.00,
+    "description": "A Cotton Fabric with hand embroidery"
+  },
+  {
+    "name": "Shoes",
+    "image": "assets/images/shoes.jpeg",
+    "price": 699.00,
+    "description": "Light and comfortable Sports shoes"
+  }
+]
