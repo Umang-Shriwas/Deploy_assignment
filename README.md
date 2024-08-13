@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Flutter version 3.22.2
+DevTools 2.34.3
+Dart 3.4.3
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
